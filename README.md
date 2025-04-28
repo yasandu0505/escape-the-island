@@ -1,4 +1,4 @@
-# Stranded: Escape the Island
+# Stranded: Escape the Island 🌴🌴🌴🌴
 
 ## Overview
 Stranded: Escape the Island is a text-based survival adventure game where you play as the lone survivor of a plane crash on a mysterious island. Your goal is to explore the island, manage your resources, and find a way to escape or be rescued.
